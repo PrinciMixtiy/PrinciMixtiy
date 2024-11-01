@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since Jan 2022.<br>📚 I'm currently learning FastAPI, OAuth2 with JWT.<br>🎯 Goals: To be a freelance developer.<br>🎲 Fun fact: I believe every bug is just an opportunity to learn something new.</p>
+<p align="left">✨ Creating bugs since Jan 2022.<br>📚 I'm currently learning FastAPI, OAuth2 with JWT.<br>🎯 Goals: Aiming to become a freelance developer and work on exciting projects.<br>🤝 Always open to collaborating on interesting projects.<br>🎲 Fun fact: I believe every bug is just an opportunity to learn something new.<br>💬 "Programming is not about what you know; it's about what you can figure out." – Chris Pine</p>
 
 ###
 
