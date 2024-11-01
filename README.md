@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since **Jan 2022**.<br>📚 I'm currently learning **FastAPI**, **OAuth2** with **JWT**.<br>🎯 Goals: To be a freelance developer.<br>🎲 Fun fact: I believe every bug is just an opportunity to learn something new.</p>
+<p align="left">✨ Creating bugs since **Jan 2022**.<br>📚 I'm currently learning FastAPI, OAuth2 with JWT.<br>🎯 Goals: To be a freelance developer.<br>🎲 Fun fact: I believe every bug is just an opportunity to learn something new.</p>
 
 ###
 
