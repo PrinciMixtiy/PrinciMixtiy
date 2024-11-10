@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Princi and I'm a software engineer student from Madagascar.</p>
+<p align="left">My name is Princi and I'm a computer science student from Madagascar.</p>
 
 ###
 
