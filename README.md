@@ -1,51 +1,66 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
 
-###
+# Hi, I'm Princi 👋
 
-<p align="left">My name is Princi and I'm a computer science student from Madagascar.</p>
+**Technical Product Manager with a software development background.**
 
-###
+_I turn ambiguous problems into clear product decisions, technical requirements, and products that ship._
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since Jan 2022.<br>📚 I'm currently learning FastAPI, OAuth2 with JWT.<br>🎯 Goals: Aiming to become a freelance developer and work on exciting projects.<br>🤝 Always open to collaborating on interesting projects.<br>🎲 Fun fact: I believe every bug is just an opportunity to learn something new.<br>💬 "Programming is not about what you know; it's about what you can figure out." – Chris Pine</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
 </div>
 
-###
+<br>
+
+## 🧭 What I do
+
+<p align="center">
+  <img src="https://img.shields.io/badge/1-Discover-1E3A8A?style=for-the-badge" alt="Discover">
+  →
+  <img src="https://img.shields.io/badge/2-Define-1D4ED8?style=for-the-badge" alt="Define">
+  →
+  <img src="https://img.shields.io/badge/3-Deliver-2563EB?style=for-the-badge" alt="Deliver">
+  →
+  <img src="https://img.shields.io/badge/4-Launch-3B82F6?style=for-the-badge" alt="Launch">
+</p>
+
+1. **Discover** : customer and business needs, competitor analysis, business model
+2. **Define** : requirements, technical feasibility with engineering, roadmap and priorities
+3. **Deliver** : specifications, success criteria, acceptance testing and beta tests
+4. **Launch** : documentation, internal training, measuring results
+
+## 🧰 Toolbox
+
+- 🎨 **Prototype** : Figma, Lovable, Claude Design
+- 🛠️ **Build** : Web apps, APIs, Integrations
+- ✅ **Validate** : QA, Acceptance testing, UAT, Test management
+- 🚢 **Ship** : Docker, CI/CD, Cloud hosting & infrastructure
+- 📝 **Document** : Notion, Swagger / OpenAPI, Technical specifications
+
+## 🚀 What I'm building
+
+> ### Lealo &nbsp; ![Status](https://img.shields.io/badge/status-MVP%20in%20development-F59E0B?style=flat-square)
+>
+> A loyalty platform that helps businesses turn purchases into repeat engagement through points, rewards and loyalty programs.
+>
+> `SaaS` &nbsp; `APIs` &nbsp; `Multi-tenant architecture`
+
+## ⚙️ How I work
+
+1. Start with the user's problem, not the feature list.
+2. Make product and technical decisions explicit.
+3. Find the simplest version that can validate the idea.
+4. Keep engineering involved from the beginning.
+5. Prototype when a working product answers faster than a meeting.
+6. Validate what was built against what was actually needed.
+7. Measure, learn, and iterate.
+
+## 📍 Currently
+
+Working on FTTH and digital product initiatives, and building software products independently.
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/princi-rakotoarisoa-734388441)
+
+</div>
